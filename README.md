@@ -29,7 +29,8 @@ I am a Java Developer for Ukraine with 4 years of experince. I've worked for 2 p
 </div>
 
 🎯 **More info about me**
-- My CV:
+
+[![CV Badge](https://img.shields.io/badge/-My_CV-6aa84f?style=flat&labelColor=6aa84f&logo=cv&logoColor=white)](https://drive.google.com/file/d/1HCynwocuNhzCucmc96nfiy-z2xP7Nbyt/view?usp=sharing)
 
 
 
