@@ -3,8 +3,6 @@
 🌠 **About Me**
 
 My name is Anastasiia. 
-- 😄 Pronouns: [a·nuh·stay·zhuh]
-
 
 I am a Java Developer for Ukraine with 4 years of experince. I've worked for 2 products companies in IoT and Airline domains.
 
@@ -33,8 +31,22 @@ I am a Java Developer for Ukraine with 4 years of experince. I've worked for 2 p
 🎯 **More info about me**
 - My CV:
 
+
+
+
+
 **Reach Me Out**
-[![Linkedin Badge](https://img.shields.io/badge/-Anastasiia-Tkachenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-tkachenko0/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Anastasiia_Tkachenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-tkachenko0/) 
+[![Mail Badge](https://img.shields.io/badge/-Anastasiia_Tkachenko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anastasiia.tkachenko12@gmail.com)
+
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Anastasiia's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Natiik&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natiik&layout=compact&&langs_count=8"/>
+</div>
 
 <!--
 **Natiik/Natiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
