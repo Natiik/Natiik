@@ -17,7 +17,7 @@ I am a Java Developer for Ukraine with 4 years of experince. I've worked for 2 p
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven"/></code>
+	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" background-color: white/></code>
 </div>
 <!--
 **Natiik/Natiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
