@@ -29,6 +29,13 @@ I am a Java Developer for Ukraine with 4 years of experince. I've worked for 2 p
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" alt="Liquibase" title="Liquibase"></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" title="JUnit"></code>
 </div>
+
+🎯 **More info about me**
+- My CV:
+
+**Reach Me Out**
+[![Linkedin Badge](https://img.shields.io/badge/-Anastasiia-Tkachenko?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-tkachenko0/) 
+
 <!--
 **Natiik/Natiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
