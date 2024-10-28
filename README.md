@@ -10,7 +10,7 @@ I am a Java Developer for Ukraine with 4 years of experince. I've worked for 2 p
 - 🌱 I’m currently learning more about AWS
 - 🌟 In my free time I learn new technoligies, invest, enjoy driving a car and reading books
 
-⌨️ **Languages and Tools**
+⌨️ **Some Languages and Tools**
 
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
