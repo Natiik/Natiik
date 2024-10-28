@@ -34,7 +34,7 @@ I am a Java Developer for Ukraine with 4 years of experince. I've worked for 2 p
 - My CV:
 
 **Reach Me Out**
-[![Linkedin Badge](https://img.shields.io/badge/-Anastasiia-Tkachenko?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-tkachenko0/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Anastasiia-Tkachenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-tkachenko0/) 
 
 <!--
 **Natiik/Natiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
